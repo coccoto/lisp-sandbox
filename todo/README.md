@@ -1,2 +1,2 @@
-sbcl --load main.lisp
-(start-todo)
+1. sbcl --load main.lisp
+2. (start-todo)
